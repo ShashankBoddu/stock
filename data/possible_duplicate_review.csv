@@ -1,0 +1,6 @@
+﻿item_code_a,name_a,item_code_b,name_b,similarity
+STK-00499,Panel Board,STK-00500,Panel Boards,0.909
+STK-00518,Phoenix,STK-00519,Phoneix,0.857
+STK-00867,Thermal Camera,STK-00868,Thermal Cameras,0.923
+STK-00970,Through Hole MOSFET-F9540N,STK-00972,Through Hole MOSFET-IRF9540N,0.857
+STK-01139,Weighing scales,STK-01140,Weighinh scale,0.892

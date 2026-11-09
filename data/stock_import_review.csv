@@ -1,0 +1,1241 @@
+﻿source,section,line,item,reference quantity,location,note
+current,IoT Rack-A,10,Weighing scales,6,IoT Rack-A / A-1,
+current,IoT Rack-A,11,Weighinh scale,1,IoT Rack-A / A-2,
+current,IoT Rack-A,12,Paper cutter,1,IoT Rack-A / A-2,
+current,IoT Rack-A,13,Ribbon cables,,IoT Rack-A / A-2,
+current,IoT Rack-A,14,Mini-UPS Adapter,4,IoT Rack-A / A-2,
+current,IoT Rack-A,15,Power cables,,IoT Rack-A / A-2,
+current,IoT Rack-A,16,Bulbs,,IoT Rack-A / A-3,
+current,IoT Rack-A,17,Ferrite coils,,IoT Rack-A / A-3,
+current,IoT Rack-A,18,HMI Screen (DWIN),1,IoT Rack-A / A-3,
+current,IoT Rack-A,19,Extension boards,,IoT Rack-A / A-3,
+current,IoT Rack-A,20,BLE Beacons,,IoT Rack-A / A-4,
+current,IoT Rack-A,21,Spacers (10cm),,IoT Rack-A / A-4,
+current,IoT Rack-A,22,White Blankets,,IoT Rack-A / A-4,
+current,IoT Rack-A,23,12V Silicon adapters,6,IoT Rack-A / A-5,
+current,IoT Rack-A,24,Ph analyzer,,IoT Rack-A / A-5,
+current,IoT Rack-A,25,PCB Power suply,,IoT Rack-A / A-5,
+current,IoT Rack-A,26,2way solonidal valve,,IoT Rack-A / A-5,
+current,IoT Rack-A,27,Stabiliser(From ibrahimpatnam),,IoT Rack-A / A-5,
+current,IoT Rack-A,28,Weather Radiation Sensor,1,IoT Rack-A / A-5,
+current,IoT Rack-A,29,AVO Ups,1,IoT Rack-A / A-6,
+current,IoT Rack-A,30,Divya testing box,,IoT Rack-A / A-6,
+current,IoT Rack-A,31,DC Power supply,,IoT Rack-A / A-6,
+current,IoT Rack-A,32,Power cables of different cores,,IoT Rack-A / A-7,
+current,IoT Rack-A,33,Flow Meter (Krohne marshall),2,IoT Rack-A / A-8,
+current,IoT Rack-A,34,Ethernet Cable,1,IoT Rack-A / A-8,
+current,IoT Rack-B,48,Fontech LED Monitors 39.1cm model No: MON-0068,5,IoT Rack-B / B-1,
+current,IoT Rack-B,49,Turbidity Analyzer,2,IoT Rack-B / B-1,
+current,IoT Rack-B,50,Panel Boards,1,IoT Rack-B / B-1,
+current,IoT Rack-B,51,Fontech LED Monitors,5,IoT Rack-B / B-2,
+current,IoT Rack-B,52,Turbidity Analyzer,1,IoT Rack-B / B-2,
+current,IoT Rack-B,53,Turbidity Analyzer,2,IoT Rack-B / B-3,
+current,IoT Rack-B,54,Logic anayzer with cable,,IoT Rack-B / B-3,
+current,IoT Rack-B,55,Clamps,,IoT Rack-B / B-3,
+current,IoT Rack-B,56,Turbidity Stickers,,IoT Rack-B / B-3,
+current,IoT Rack-B,57,Extension Socket with Wi-fi Dongle,1,IoT Rack-B / B-3,
+current,IoT Rack-B,58,Android Robot,1,IoT Rack-B / B-4,
+current,IoT Rack-B,59,Mini Hexrobot,2,IoT Rack-B / B-4,
+current,IoT Rack-B,60,China Components Box,1,IoT Rack-B / B-4,
+current,IoT Rack-B,61,Safepaani v1 Box,,IoT Rack-B / B-5,
+current,IoT Rack-C,69,"Mid day meal weighing scale 5kg 12Vbattery 15inch Screen,dual camera, Thermo",3,IoT Rack-C / C-1,
+current,IoT Rack-C,70,Fontech LED Monitors 39.1cm model No: MON-0068,1,IoT Rack-C / C-1,
+current,IoT Rack-C,71,JLCPCB Box-Multiple PCBs,,IoT Rack-C / C-1,
+current,IoT Rack-C,72,Weighing machines Steel Plates 5kg Plate alone (Alta make),8,IoT Rack-C / C-2,
+current,IoT Rack-C,73,Weighing machines Iron Plates 5kg Plate alone (Alta make),6,IoT Rack-C / C-2,
+current,IoT Rack-C,74,Weighing machines rubber bushes 5kg Plate alone (Alta make),7,IoT Rack-C / C-2,
+current,IoT Rack-C,75,3D printed enclosers,2,IoT Rack-C / C-2,
+current,IoT Rack-C,77,Bio digestive tank proto type,1,IoT Rack-C / C-2 / Box -17 (HDMI to micro HDMI cable),
+current,IoT Rack-C,78,China Drill guns,1,IoT Rack-C / C-2 / Box -17 (HDMI to micro HDMI cable),
+current,IoT Rack-C,79,Screw machine orange color,,IoT Rack-C / C-2 / Box -17 (HDMI to micro HDMI cable),
+current,IoT Rack-C,80,Copper Roll,,IoT Rack-C / C-2 / Box -17 (HDMI to micro HDMI cable),
+current,IoT Rack-C,81,Instant Pressure Monitoring device,1,IoT Rack-C / C-2 / Box -17 (HDMI to micro HDMI cable),
+current,IoT Rack-C,82,USB to Serial DB9 Cable,1,IoT Rack-C / C-2 / Box -17 (HDMI to micro HDMI cable),
+current,IoT Rack-C,83,Battery 12.8 V 18 Ah,1,IoT Rack-C / C-2 / Box -17 (HDMI to micro HDMI cable),
+current,IoT Rack-C,84,Batteries 11.1 V/1000MAH,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,85,"Lithium ion batteries, 3.2 V 10ah 32wh",1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,86,(Sunca) Lead acid rechargeable battries 4V 1.5 AH,4,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,87,MaxPower Heavy duty Batteries,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,88,Everyday 1.5v battries,4,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,89,Lipo battery,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,90,"A.C Synchoronous motor 60rpm, 125mA",1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,91,7.4V /2500mAh battery,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,92,DuraCell 1.5V,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,93,NIPPO AAA Battery,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,94,Forte Lithium BAttery 3.6V AA Size (Robu.in),2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,95,Blue battery,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,96,7.2V 700mAH,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,97,Tadiran lithium inorganic battery,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,98,"200W 1k, 440 VAC",1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,99,Amptex sealed rechargeable battery 6V 4.5AH,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,100,VRLA Battery,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,101,Forte Lithium BAttery 3.6V AA Size (Robu.in),1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,102,3.7V 1000mAh Battery,3,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,103,3.7V 500mAh Batteries,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,104,3.7v/4500 Mah Lithium batteries,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,105,3.7V 1000mAh Battery,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,106,7.4 v battry,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,107,6v 5 ah vrla battery lead acid (COPRO),1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,108,Bulb holders,4,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,109,Multi meter (Small),1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,110,Battery holders,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,111,HFE19-90 250VAC 90A,3,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,112,HDC anometer,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,113,Finger print scanner,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,114,BOX13 SMD Resistors,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,115,Screws and nuts,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,116,Quarki okcl boxes,5,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,117,Gatti screws,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,118,5DB Antenna,2,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,119,Robotic boards,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,120,Soil servey instrument,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,121,5V 3Amp adapter,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,122,HI-Link AC-DC Converter,7,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,123,Robotic kits Components,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,124,Drone (OKCL),,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,125,Self Balanced robot,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,126,R180168 Linear voltage regulator IC,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,127,Relays,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,128,Male Headers,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,129,12V Battery Charger,1,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,130,TU Encloser by Nehal,,IoT Rack-C / C-3 / BOX -21,
+current,IoT Rack-C,131,"ON/ OFF Switches yellow, green, red and locks",,IoT Rack-C / C-4 / BOX - 19,
+current,IoT Rack-C,132,Terminal Block Pins,,IoT Rack-C / C-4 / BOX - 19,
+current,IoT Rack-C,133,DC Jack,8,IoT Rack-C / C-4 / BOX - 19,
+current,IoT Rack-C,134,TYPE-C to JST Charger Socket,4,IoT Rack-C / C-4 / BOX - 19,
+current,IoT Rack-C,135,Soldering material,,IoT Rack-C / C-4 / BOX-22,
+current,IoT Rack-C,136,Power pro,3,IoT Rack-C / C-4 / BOX - 23,
+current,IoT Rack-C,137,LCD Display,,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,138,Kamoer Water pump (SAFE Paani),,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,139,Spacers,,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,140,Antennas (All types),,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,141,Power pro version 1.1,,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,142,Digital multi meter,,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,143,Safe pani water pump,,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,144,Wi-Fi Dongle,5,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,145,2.4A Adapter with dual output (chargers),5,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,146,RF13 Power Supply Unit (5V) / SMPS,1,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,147,SMPS,3,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,148,ZIP Covers,,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,149,Single channel relay module,5,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,150,Ultrasonic Sensor Module,3,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,151,Motor driver Arduino shield,5,IoT Rack-C / C-4 / BOX - 10,
+current,IoT Rack-C,152,Safe pani stand for electric vechile,,IoT Rack-C / C-5,
+current,IoT Rack-C,153,Honey bee Dress (Field),,IoT Rack-C / C-5,
+current,IoT Rack-C,154,Arm robot box,,IoT Rack-C / C-5,
+current,IoT Rack-C,155,Empty component boxes,3,IoT Rack-C / C-5,
+current,IoT Rack-C,156,ZIP Tags,3,IoT Rack-C / C-5,
+current,IoT Rack-C,157,Weather Station Bucket,2,IoT Rack-C / C-5,
+current,IoT Rack-D,164,Mid day meal weighing scale,2,IoT Rack-D / D-1,
+current,IoT Rack-D,165,Fontech LED Monitors (39.1cm model No: MON-0068),1,IoT Rack-D / D-1,
+current,IoT Rack-D,166,JLC PCB boards Box,1,IoT Rack-D / D-1,
+current,IoT Rack-D,167,Round Light along with stand,1,IoT Rack-D / D-1,
+current,IoT Rack-D,168,KeyBoard,1,IoT Rack-D / D-2,
+current,IoT Rack-D,169,Copper Sheet,1,IoT Rack-D / D-2,
+current,IoT Rack-D,170,Components Sets Boxes,4,IoT Rack-D / D-3,
+current,IoT Rack-D,171,Oscilloscope,1,IoT Rack-D / D-4,
+current,IoT Rack-D,172,Enclosure's Box,,IoT Rack-D / D-5,
+current,IoT Rack-D,173,Enclosure's,2,IoT Rack-D / D-5,
+current,IoT Rack-E,180,Solar Panel,1,IoT Rack-E / E-1,
+current,IoT Rack-E,181,Panel Board,2,IoT Rack-E / E-1,
+current,IoT Rack-E,182,Mixed Components Box,3,IoT Rack-E / E-2,
+current,IoT Rack-E,183,Mixed Components Box 3 Hole Power Cables,8,IoT Rack-E / E-3,
+current,IoT Rack-E,184,2 Hole Power Cables,1,IoT Rack-E / E-3,
+current,IoT Rack-E,185,Ethernet to Ethernet Cable,1,IoT Rack-E / E-3,
+current,IoT Rack-E,186,HDMI to HDMI Cable,2,IoT Rack-E / E-3,
+current,IoT Rack-E,187,65W Universal Laptop Adapter,1,IoT Rack-E / E-3,
+current,IoT Rack-E,188,9V Adapter,2,IoT Rack-E / E-3,
+current,IoT Rack-E,189,5V Adapter,3,IoT Rack-E / E-3,
+current,IoT Rack-E,190,12V Adapter,6,IoT Rack-E / E-3,
+current,IoT Rack-E,191,USB Cable,1,IoT Rack-E / E-3,
+current,IoT Rack-E,192,USB to Type-A Cable,1,IoT Rack-E / E-3,
+current,IoT Rack-E,193,Raspberry Pi Adapter,1,IoT Rack-E / E-3,
+current,IoT Rack-E,194,Battery Charger (13.8V output),1,IoT Rack-E / E-3,
+current,IoT Rack-E,195,HDMI to VGA,1,IoT Rack-E / E-3,
+current,IoT Rack-E,196,Extension Boards,2,IoT Rack-E / E-3,
+current,IoT Rack-E,197,Switch Board (2 Switch),1,IoT Rack-E / E-3,
+current,IoT Rack-E,198,HDMI - VGA,1,IoT Rack-E / E-3,
+current,IoT Rack-E,199,DB9 Cable,1,IoT Rack-E / E-3,
+current,IoT Rack-E,200,Peristatic Pumps,2,IoT Rack-E / E-3,
+current,IoT Rack-E,201,3D Enclosure Parts (SafePaani),,IoT Rack-E / E-3,
+current,IoT Rack-E,202,"SafePaani Sensors, Flowcells",,IoT Rack-E / E-4,
+current,IoT Rack-E,203,pH sensor Box,,IoT Rack-E / E-4,
+current,IoT Rack-E,204,SafePaani Chemicals,,IoT Rack-E / E-4,
+current,IoT Rack-E,205,Water Quality Components Box,,IoT Rack-E / E-4,
+current,IoT Rack-E,206,Pressure Pump,2,IoT Rack-E / E-5,
+current,IoT Rack-E,207,Flow Meter,1,IoT Rack-E / E-5,
+current,IoT Rack-F,215,Power Pro Adapter's & Boards,,IoT Rack-F / F-2,
+current,IoT Rack-F,216,Power Pro Enclosure's,,IoT Rack-F / F-2,
+current,IoT Rack-F,217,Robotic Components,,IoT Rack-F / F-3,
+current,IoT Rack-F,218,Robot Chasis,,IoT Rack-F / F-3,
+current,IoT Rack-F,219,Robot Components,,IoT Rack-F / F-4,
+current,IoT Rack-F,220,Extension Board with MCB,1,IoT Rack-F / F-4,
+current,IoT Rack-F,221,Books,,IoT Rack-F / F-5,
+current,IoT Rack-F,222,"VR headset, Tic Tac Toe, Smart Bulb & Flat Cable",,IoT Rack-F / F-5,
+current,IoT Rack-G,229,3D Printing Machine,1,IoT Rack-G / G-1,
+current,IoT Rack-G,230,Damaged Sensor's,,IoT Rack-G / G-1,
+current,IoT Rack-G,231,Unknown Box,,IoT Rack-G / G-2,
+current,IoT Rack-G,232,Demo Modules,,IoT Rack-G / G-3,
+current,IoT Rack-G,233,Components Box(Need to check),,IoT Rack-G / G-3,
+current,IoT Rack-G,234,"Robot's (Hand picked, etc.)",,IoT Rack-G / G-4,
+current,IoT Rack-G,235,Used PCB's,,IoT Rack-G / G-5,
+current,IoT Rack-G,236,RoboKits,,IoT Rack-G / G-5,
+current,IoT Rack-H,243,Empty Blue Trays,,IoT Rack-H / H-1,
+current,IoT Rack-H,246,Catalog Box,1,IoT Rack-H / H-4,
+current,IoT Rack-H,247,Invoices & Files Box,1,IoT Rack-H / H-4,
+current,IoT Rack-H,248,Brochure's Boxes,2,IoT Rack-H / H-5,
+current,On Ground,255,Weight Scale (Big),2,On Ground,
+current,On Ground,256,Dendrile,,On Ground,
+current,On Ground,257,Valve,,On Ground,
+current,On Ground,258,ROBOT,,On Ground,
+current,White Cupboard,266,Power Pro (New),3,White Cupboard / Shelf - 1,
+current,White Cupboard,267,Power Pro VA,3,White Cupboard / Shelf - 1,
+current,White Cupboard,268,"Capacitors(SMD, TH Electrolyte, TH Polyster, TH Ceramic)",,White Cupboard / Shelf - 1 / Box 8,
+current,White Cupboard,269,"Diodes(TH, SMD)",,White Cupboard / Shelf - 1 / Box 8,
+current,White Cupboard,270,Inductors (SMD),,White Cupboard / Shelf - 1 / Box 8,
+current,White Cupboard,271,SMD Resistors,,White Cupboard / Shelf - 1 / Box 14,
+current,White Cupboard,272,SMD Capacitors,,White Cupboard / Shelf - 1 / BOX 15,
+current,White Cupboard,273,Arduino based Peripheral Board V1,3,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,274,Robotic Peripheral Boards,3,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,275,Servo Card/ Servo Stabilizer PCB,5,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,276,Servo Shield,1,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,277,Power Pro Single Phase PCB,2,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,278,WAPI,1,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,279,WAPI V2,3,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,280,WAPI LoRa TU V2.0,1,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,281,Timer,1,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,282,RaspBerry Pi with Camera,1,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,283,STM32 Nucleo Board,2,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,284,STM32G071CBT6 Breakdown modules,5,White Cupboard / Shelf - 2 / Tray-1,
+current,White Cupboard,285,Smart Timer Board,5,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,286,Servo PCB,1,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,287,Power Pro H V0.1,3,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,288,Power Pro H V0.1 Traces,2,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,289,LoRa Gateway 4 layer Boards,5,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,290,Smoke Sensor Boards,4,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,291,Line Monitor Boards,5,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,292,Servo Stabilizer Prototype Trace,2,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,293,3-phase peripheral Board,2,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,294,NCV Detector v0.1,4,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,295,LoRa ESP Gateway v1.0,1,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,296,Servo Card,2,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,297,LoRa Gateway V1.1,4,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,298,Terminal Control v1.0 Traces,2,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,299,Terminal Control v1.0,1,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,300,Crow Panel ESP Display Enclosure,1,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,301,DS3231 Timer Hi-Link,1,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,302,LoRa TU Traces,2,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,303,LoRa TU (Need to Test - brought from field),4,White Cupboard / Shelf - 2 / Tray-2,
+current,White Cupboard,304,Isolated DC Power Supply,8,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,305,EC200U Traces,2,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,306,TC Boards (Big),3,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,307,Power Pro with AC analysis,3,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,308,FLoRa TU V1.0 PCBs,21,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,309,20x4 LCD Display,2,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,310,3 Phase Peripheral Board (old),3,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,311,LoRa TU Board 2.54cm V1.0,1,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,312,FLoRa_1_CH_GW V1 Traces,2,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,313,EC200U 5V,4,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,314,EC200U 3.3V,2,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,315,Hi-Link Input Output Timer,1,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,316,PCF Timer,2,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,317,Battery Circuit (old),2,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,318,A/C Feedback Board,1,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,319,FloRa_TU_V1.1,5,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,320,4 Channel Relay Module,1,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,321,ESP - 12E NodeMCU V3,1,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,322,ESP 32 DEVKIT V1,1,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,323,UPS SWCKT V1.0,4,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,324,Timer PCB,2,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,325,Power Pro Single Phase,4,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,326,WAPI_TC V1.0,4,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,327,FLoRa V1,3,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,328,FLoRa GW V3,8,White Cupboard / Shelf - 2 / Tray-3,
+current,White Cupboard,329,Smart Box V1.0,3,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,330,Clicker V2.0,5,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,331,Quectel EC200U Module V1.0,4,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,332,Smart Timer Board,3,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,333,Clicker Receiver,3,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,334,Quadprob V1.0,6,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,335,LoRa Gateway V1.1,2,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,336,Smart Timer Board V1.0(New),2,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,337,Quectel M66 GSM V1.1,3,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,338,SafePaani V2.0,10,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,339,Mosfet Circuit,3,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,340,Hi-Link DS3231 Timer,6,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,341,Power Pro VA V1.2,8,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,342,JoyStick Module,1,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,343,USB Microphone,1,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,344,N706B Neoway IC,2,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,345,LoRa ESP Gateway v1.0,4,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,346,LoRa GW Base Boards,4,White Cupboard / Shelf - 2 / Tray - 4,
+current,White Cupboard,347,MT3608 Boost Converter,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,348,"TL061CP,TL062CP,TL071CP,TL072CP,TL081CP,TL082CP JFETs",5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,349,Lithium Battery Charger Module,3,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,350,Radio Frequency Transmitter & Receiver Module,8,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,351,Micro Servo Motor 9g,3,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,352,Ultrasonic Sensor,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,353,Logic Kit V1.0,5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,354,Thermal infrared camera module (7Semi MLX90640),1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,355,Buzzer,12,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,356,Rocker Switch 3 Pin (Black Colour),5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,357,Rocker Switch 6 Pin (Black Colour),5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,358,Rocker Switch 2 pin (Big - Red Colour),12,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,359,Rocker Switch 2 pin (Small - Black Colour),1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,360,MQ-2 Gas Sensor,5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,361,LDR Sensor,2,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,362,BC547 Transistor,45,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,363,ESP32 WROVER DEV KIT V1.4,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,364,"USB to TTL, ST-Link",1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,365,"16X2 LCD Display, 2.4 TFT LCD Display",1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,366,APR33A3 Voice Recorder and Playback Module,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,367,DTMF Decoder Module,2,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,368,4 Dot Matrix Display,2,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,369,30V Relay,2,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,370,5V 2A Relay,4,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,371,Single Relay Module,2,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,372,PIR Sensor,2,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,373,L293D Motor Driver,3,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,374,L7805CV Linear Voltage Regulator IC,5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,375,Slide Switch 3Pin,2,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,376,Slide Switch 6Pin,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,377,PBS-12B Pushbutton Switch (Red Colour),5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,378,LA128A Push Button Switch (Red Colour),5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,379,White LED,11,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,380,RGB LED,5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,381,RED LED,5,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,382,GREEN LED,4,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,383,Yellow LED,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,384,5mm Dark Green LED,130,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,385,5mm Red LED,30,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,386,4.8mm Warm White LED,40,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,387,RING LED,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,388,LED modules,3,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,389,Micro USB to USB-A Converter,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,390,Current Sensor,1,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,391,RTC Timer,2,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,392,8 to 3 Line Priority Encoder,4,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,393,DC Jack Pins (Male),19,White Cupboard / Shelf - 2 / Tray - 5,
+current,White Cupboard,394,Pi Camera,9,White Cupboard / Shelf - 2 / Camera Modules,
+current,White Cupboard,395,Thermal Camera,9,White Cupboard / Shelf - 2 / Camera Modules,
+current,White Cupboard,396,Camera Module,1,White Cupboard / Shelf - 2 / Camera Modules,
+current,White Cupboard,397,Mini Camera,1,White Cupboard / Shelf - 2 / Camera Modules,
+current,White Cupboard,398,Hammer (Small),1,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,399,Araldite,1,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,400,Insulation Tape,7,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,401,Crimping Tool,1,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,402,Hacksaw Blade,3,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,403,Copper Sheet Cutter,1,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,404,FeviKick,1,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,405,Glue Gun,1,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,406,Edge Cutter,1,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,407,Wire Stripper,1,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,408,Desoldering Wik,3,White Cupboard / Shelf - 3 / Tool Kit Box,
+current,White Cupboard,409,Male to Male Jumper Cables,,White Cupboard / Shelf - 3 / Jumper Cables Box,
+current,White Cupboard,410,Female to Female Jumper Cables,,White Cupboard / Shelf - 3 / Jumper Cables Box,
+current,White Cupboard,411,Male to Female Jumper Cables,,White Cupboard / Shelf - 3 / Jumper Cables Box,
+current,White Cupboard,412,SD Card(64GB),2,White Cupboard / Shelf - 3 / Jumper Cables Box,
+current,White Cupboard,413,Pendrive(64GB),2,White Cupboard / Shelf - 3 / Jumper Cables Box,
+current,White Cupboard,414,2 pin male connector,10,White Cupboard / Shelf - 3 / M16 Water Proof Connectors,
+current,White Cupboard,415,2 pin female connector,10,White Cupboard / Shelf - 3 / M16 Water Proof Connectors,
+current,White Cupboard,416,4 pin male connector,25,White Cupboard / Shelf - 3 / M16 Water Proof Connectors,
+current,White Cupboard,417,4 pin female connector,25,White Cupboard / Shelf - 3 / M16 Water Proof Connectors,
+current,White Cupboard,418,8 pin male connector,5,White Cupboard / Shelf - 3 / M16 Water Proof Connectors,
+current,White Cupboard,419,8 pin female connector,5,White Cupboard / Shelf - 3 / M16 Water Proof Connectors,
+current,White Cupboard,420,2 pin Gx Connectors,14,White Cupboard / Shelf - 3 / GX Connectors,
+current,White Cupboard,421,4 Pin Gx Connectors,14,White Cupboard / Shelf - 3 / GX Connectors,
+current,White Cupboard,422,2 pin Gx-16 Connectors,5,White Cupboard / Shelf - 3 / GX Connectors,
+current,White Cupboard,423,4 Pin Gx-16 Connectors,13,White Cupboard / Shelf - 3 / GX Connectors,
+current,White Cupboard,424,"Zip Tags (Big, Medium,Small)",3,White Cupboard / Shelf - 3 / Zip Tags,
+current,Grey_Cupboard,433,BC547 Transistor (TH),50,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,434,BC557 Transistor (TH),40,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,435,2N2222H (TH),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,436,BC327-40 (TH),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,437,WS78L05 (TH),2,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,438,2N3904 (TH),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,439,IRLZ44N (TH),3,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,440,LD1117V33-Linear Voltage Regulator IC(TH),1,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,441,RS485 RS422 Transceiver(SMD),2,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,442,2SA812 PNP Bi-Polar BJT(SMD),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,443,BC847 (SMD),10,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,444,2N3904S (SMD),10,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,445,BS170FTA (SMD),38,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,446,FDN360P 30V 2A P-Channel Mosfet (SMD),2,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,447,A03415 20V 4A P-Channel Mosfet (SMD),2,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,448,A03401 30V 4A P-Channel mosfet (SMD),15,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,449,SL2323DS 20V 4.7A P-Channel mosfet (SMD),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,450,FDN340P 20V 2A P-Channel mosfet (SMD),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,451,FDN358P 30V 1.5A P-Channel mosfet (SMD),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,452,FDN335N 20V 1.7A N-Channel mosfet (SMD),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,453,FDN357N 30V 1.9A N-Channel mosfet (SMD),2,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,454,2N7002 N-Channel mosfet (SMD),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,455,A03402 30V 3.2A N-Channel mosfet (SMD),5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,456,LCD Driver,4,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,457,I2C Module,1,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,458,STM32G070CBT6,9,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,459,MOC3052 IC,5,"Grey Cupboard / Transistors, Mosfets & ICs",
+current,Grey_Cupboard,460,Li-ion Batteries (3.6V),13,Grey Cupboard / Batteries,
+legacy,Equipment Sheet,10,CRO,1,Legacy reference / Equipment Sheet / Location needs checking / Equipment Sheet,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,11,AC Synchronous Motor,1,Legacy reference / Equipment Sheet / Location needs checking / Equipment Sheet,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,12,Soldering Rods,3,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,13,Soldering bits (New),11,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,14,Soldering bits (Old),6,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,15,Desoldering Wires,2,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,16,Flux,2,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,17,Soldering Stand,1,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,18,Soldering Glass,1,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,19,Group Strap,1,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,20,Desoldering Sponge,1,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,21,Heatsink componds,1,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,22,Glue Sticks,21,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,23,Breadboards,4,Legacy reference / Equipment Sheet / 22,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,24,PG9 Glands,46,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,25,PG Glands without the gland,5,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,26,Soldering Station Soldron SL-938,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,27,Soldron Soldering Station 878D,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,28,Soldron portable flame extractor,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,29,Multimeter,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,30,Fluke Multimer 17B+,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,31,DC power supply 6A 250V,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,32,Magnifying glass for soldering,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,34,Jackly 32 IN 1 Standard Screwdriver Set,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,35,CATRON 6.35 mm (1/4 inch) Screwdriver Drive Socket Wrench Set with CT-V Sockets (Pack of 46 ),1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,36,Wrenches Set,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,37,Stripper,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Equipment Sheet,38,Variac,1,Legacy reference / Equipment Sheet / 19,Legacy quantity is reference only; recount before use.
+legacy,Sensors,46,RCL Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,47,Turbidity Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,48,Shipping,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,49,pH Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,50,RCL Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,51,TDS Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,52,Turbidity Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,53,Flow Cell,2,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,54,Shipping,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,55,RCL Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,56,pH Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,57,Hydrostatic Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,58,Hydrostatic Sensor,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,59,Hydro Test Pump,1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Sensors,60,"BoD, ToC, CoD, Temperature",1,Legacy reference / Sensors / Location needs checking / Sensors,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,68,Fervid,4,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,70,Amazon,1,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,71,VK Enterprises,2,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,72,Quectel,,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use. Source quantity: 2 Sets
+legacy,Boxes_List,73,Universal,1,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,74,Monson,1,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,75,Local Market,1,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,77,"Robu, Local",,Legacy reference / Boxes_List / 1,"Legacy quantity is reference only; recount before use. Source quantity: ( 4 Orange ) , (1 Airtel)"
+legacy,Boxes_List,83,Foxlink,,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use. Source quantity: F
+legacy,Boxes_List,86,Phoenix,2,Legacy reference / Boxes_List / 1,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,111,Sea,1,Legacy reference / Boxes_List / 2,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,115,Fervid (SV Industries),17,Legacy reference / Boxes_List / 3,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,121,Moko,,Legacy reference / Boxes_List / 5,Legacy quantity is reference only; recount before use. Source quantity: Total Set
+legacy,Boxes_List,123,Moko,1,Legacy reference / Boxes_List / 6,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,125,Moko,8,Legacy reference / Boxes_List / 7,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,172,Robu.in,,Legacy reference / Boxes_List / 16,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,174,Robu.in,5,Legacy reference / Boxes_List / 17,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,176,Robu.in,7,Legacy reference / Boxes_List / 18,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,177,Robu.in,7,Legacy reference / Boxes_List / 18,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,178,Robu.in,6,Legacy reference / Boxes_List / 18,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,179,Robu.in,5,Legacy reference / Boxes_List / 18,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,180,Evelta,3,Legacy reference / Boxes_List / 18,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,182,Evelta,12,Legacy reference / Boxes_List / 18,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,183,Robu.in,11,Legacy reference / Boxes_List / 18,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,184,Evelta,6,Legacy reference / Boxes_List / 18,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,195,Robu.in,10,Legacy reference / Boxes_List / 19,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,197,Robu.in,12,Legacy reference / Boxes_List / 19,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,241,SHAH <br>Electronics,20,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,245,Elec Future,21,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,246,Hongfa,29,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,247,Hongfa,3,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,248,NICE,3,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,249,Songle,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,250,Virtual,3,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,253,Hi-link,3,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,254,Hi-link,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,255,Hi-link,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,257,Eenrzone,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,259,COPRO,1,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,260,Amptex,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,262,VRLA,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,263,asanca,6,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,266,SUNCA,4,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,267,Eenrzone,1,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,268,samsung,1,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,269,Fanso,1,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,273,Forte,1,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,274,Forte,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,275,EveryDay,4,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,276,MAXPOWER,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,277,DuraCell,2,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,278,INDO National,1,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,279,Robu.in,5,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,281,East Power,1,Legacy reference / Boxes_List / 21,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,284,Phoneix,5,Legacy reference / Boxes_List / 23,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,285,Rishabh,1,Legacy reference / Boxes_List / 23,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,286,amici,1,Legacy reference / Boxes_List / 23,Legacy quantity is reference only; recount before use.
+legacy,Boxes_List,289,Sino,24,Legacy reference / Boxes_List / 24,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,332,Wapi TU Board with Enclosure - Rak3172 LoRa V1.0,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,333,Wapi Tu V2.0,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,334,Quectel M66 GSM V1.1,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,335,DC JACK Connector,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,336,TC Unit - LoRa Tu Board,2,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,337,SD Card,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,338,PCF 8523,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,339,TC Board,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,340,Key module,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,341,GX 16 2 pin,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,342,GX 16 4 pin,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,343,Lock key,1,Legacy reference / Prototypes / Kept in the Cupboard,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,344,LoRa Gateway Prototype - ESP 32 S2 Devkit,1,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,345,RAK TU Module Version 2.0,2,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,346,SD Card mdoule,1,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,347,Servo card - Scensing Circuit,2,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,348,Testing PCB -1,2,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,349,Servo Motor Driver circuit,2,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,350,Testing PCB -2,1,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,351,Pushbutton Interfacing ciruit,1,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,352,HMI - Rak3172 LoRa V1.0,1,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,353,STMG0 controller,1,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Prototypes,354,CPTRU,1,Legacy reference / Prototypes / 25,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,361,SMD Resistors 0603-22 OHM,9,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,362,SMD Resistors 0603-51K OHM,9,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,363,SMD Resistors 0603-4.7K OHM,5,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,364,SMD Resistors 0603-124K 100mw,13,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,365,SMD Resistors 0603-100 OHM,9,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,366,SMD Resistors 0603-0 OHM,25,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,367,SMD Resistors 0603-200K OHM,30,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,368,SMD Resistors 0603-47K OHM,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,369,Resistors SMD 603-1K,550,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,370,Resistors SMD 603-1.2M,210,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,371,Resistors SMD 603-1.2K,18,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,372,Resistors SMD 603-22K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,373,Resistors SMD 603-100R,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,374,Resistors SMD 603-2K,600,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,375,Resistors SMD 603-2M,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,376,Resistors SMD 603-1.1M,150,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,377,Resistors SMD 603-10K,113,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,378,Resistors SMD 603-20K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,379,Resistors SMD 603-12K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,380,Resistors SMD 603-10R,80,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,381,Resistors SMD 603-1M,416,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,382,Resistors SMD 603-2.74K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,383,Resistors SMD 603-1.5K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,384,Resistors SMD 603-100K,180,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,385,Resistors SMD 603-200R,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,386,Resistors SMD 603-51k,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,387,Resistors SMD 603-2.2K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,388,Resistors SMD 603-10R,70,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,389,Resistors SMD 603-24K,300,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,390,Resistors SMD 603-27K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,391,Resistors SMD 603-12K,100,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,392,Resistors SMD 603-220R,80,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,393,Resistors SMD 603-2.2M,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,394,Resistors SMD 603-15K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,395,Resistors SMD 603-10R,300,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,396,Resistors SMD 603-150R,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,397,Resistors SMD 603-360R,12,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,398,Resistors SMD 603-330R,100,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,399,Resistors SMD 603-81R,50,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,400,Resistors SMD 603-100R,30,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,401,Resistors SMD 603-470R 1/4W,16,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,402,Resistors SMD 603-1.2M,10,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,403,Resistors SMD 603-5.36K,30,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,404,Resistors SMD 603-27K,175,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,405,Resistors SMD 603-24K,29,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,406,Resistors SMD 603-2.2K,225,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,407,Resistors SMD 603-20K,230,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,408,Resistors SMD 603-100K,250,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,409,Resistors SMD 603-120R,17,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,410,Resistors SMD 603-1.2K,17,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,411,Resistors SMD 603-19.1K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,412,Resistors SMD 603- 120ohm,9,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,413,Resistors SMD 603- 160 OHM,80,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Resistors_0603,414,Resistors SMD 603-1.5K,200,Legacy reference / Resistors_0603 / 13,Legacy quantity is reference only; recount before use.
+legacy,Display products list,423,PowerPRO,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,424,Temperature sensor Anna Canteen,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,425,Feedback system Anna Canteen,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,426,Exit Gateway,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,427,Beacons - 5,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,428,BLE Gateway,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,429,Assert tracking GPS Tracker,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,430,TU Ultrasonic Sensor,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,431,TU Pressure Sensor,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,432,TU Level Switch,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,433,TC Unit,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,Display products list,434,Person Tracking,1,Legacy reference / Display products list / Location needs checking / Display products list,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,441,Servo Card,5,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,442,3-Phase,5,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,443,TC Board,4,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,444,Smoke Sensor,5,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,445,Smoke Sensor V1.0,4,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,446,TU Board 2.54cm Board length,4,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,447,MOSFET Ckt,3,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,448,Battery Change Over Circuit,4,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,449,LoRa Gateway V1 Board,5,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,450,LoRa Gateway V2 Board,4,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,451,PCF Timer Board,3,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,452,Single Phase PowerPRO V1.2,3,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,453,Mid-Day-Meal Board,8,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,454,Annual Day LoRa Gateway Board,1,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,455,Smart Timer V1.0,5,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,456,Smart Timer V1.2,5,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,457,Smart Timer Board 1 V1.1,5,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,458,Servo Card V1.0,3,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,459,Smart Timer Board 2 V1.1,3,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,PCB Boards Available,460,Power PRO H V0.1,2,Legacy reference / PCB Boards Available / Location needs checking / PCB Boards Available,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,469,Through Hole Resistors-10 OHM 1W,20,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,470,Through Hole Resistors-33 OHM 1W,20,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,471,Through Hole Resistors-22 OHM 1W,20,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,472,Through Hole Resistors-12 OHM 1W,18,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,473,Through Hole Resistors-10 OHM 2W Wire Wound Resistor,2,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,474,Through Hole Resistors-12K OHM,120,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,475,Through Hole Resistors-4.7K OHM 0.25W,200,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,476,Through Hole Resistors-220 OHM,30,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,477,Through Hole Resistors-2.2K OHM,120,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,478,Through Hole Resistors-47K OHM 0.25W,160,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,479,Through Hole Resistors-1M OHM 0.25W,50,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,480,Through Hole Resistors-1.2K OHM,60,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,481,Through Hole Resistors-1.1G OHM,30,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,482,Through Hole Resistors-1K OHM 0.5W,50,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,483,Through Hole Resistors-10K OHM,18,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,484,Through Hole Resistors-2.2M OHM 2W,9,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,485,Through Hole Resistors-18K OHM,50,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,486,Through Hole Resistors-21K OHM 0.25W,12,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,487,Through Hole Resistors-10 OHM 2W,6,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,490,Through Hole Resistors-4.7K OHM 0.5W,30,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,491,Through Hole Resistors-2K OHM 1/4W,25,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,492,Through Hole Resistors-2.7K OHM,100,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,493,Through Hole Resistors-51K OHM,100,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,494,Through Hole Resistors-2.2K OHM 1W,30,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,495,Through Hole Resistors-150K OHM,100,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,496,Through Hole Resistors-1K OHM 0.25W,70,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,497,Through Hole Resistors-100 OHM GREEN,46,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,498,Through Hole Resistors-22M OHM,10,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,499,Through Hole Resistors-1M OHM 0.25W,100,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,500,Through Hole Resistors-220 OHM 1W,100,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,501,Through Hole Resistors-47K OHM,8,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,502,Through Hole Resistors-1M OHM 2W +/- 5%,20,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,503,Through Hole Resistors-3.3K OHM 0.25W,4,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,504,Through Hole Resistors-470K OHM 0.25W,100,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,505,Through Hole Resistors-470 OHM 0.25W,45,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,506,Through Hole Resistors-10K OHM 0.25W 5% Tolerance,50,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,507,Through Hole Resistors-22 OHM 1W,15,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,508,Through Hole Resistors - 22 OHM 2W,20,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,509,Through Hole Resistors-27K OHM 0.25W,40,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,510,Through Hole Resistors-20K OHM,10,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,511,Through Hole Resistors-64K OHM,8,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,514,Through Hole Resistors-1K OHM 2W,150,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,515,Through Hole Resistors-2.7K OHM,20,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,516,Through Hole Resistors-5.6K OHM,100,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,517,Through Hole Resistors-2.2K OHM,25,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,518,Through Hole Resistors-27K OHM 0.25W 5%,140,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,519,Through Hole Resistors-466 OHM 0.25W,0,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,520,Through Hole Resistors- 220 Ohm 1W Metal Film Resistor,90,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,521,Through Hole Resistors-220 OHM 0.5W,90,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,522,Through Hole Resistors-22 OHM 0.25W,95,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,523,Through Hole Resistors-51K OHM 0.25W,20,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,524,Through Hole Resistors-33 OHM 1W,46,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,525,Through Hole Resistors-460 OHM 2W,11,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,526,Through Hole Resistors-220 OHM 2W,12,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,527,Through Hole Resistors-100 OHM 2W,9,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,528,Through Hole Resistors-39 OHM,11,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,529,Through Hole Resistors-100K 0.25W,16,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,530,Through Hole Resistors - Multiple Values,,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use. Source quantity: 2 Packs
+legacy,Resistors Through hole,531,Through Hole Resistors-33 OHM 0.25W,3,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,532,Through Hole Resistors- 200K OHM 0.25W,10,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors Through hole,535,Through Hole Resistors-3.3K OHM 0.25W,6,Legacy reference / Resistors Through hole / 12,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,542,Resistors SMD 1206-5.1K,135,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,543,Resistors SMD 1206-24K(200),192,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,544,Resistors SMD 1206-27K(100),101,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,545,Resistors SMD 1206-100R,100,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,546,Resistors SMD 1206-1M(200),104,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,547,Resistors SMD 1206-200R,245,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,548,Resistors SMD 1206-560K,281,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,549,Resistors SMD 1206-100K,226,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,550,Resistors SMD 1206-2K,93,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,551,Resistors SMD 1206-12K,209,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,552,Resistors SMD 1206-10K,300,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,553,Resistors SMD 1206-1K,350,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,554,Resistors SMD 1206-27K(200),204,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,555,Resistors SMD 1206-24K,103,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,556,Resistors SMD 1206-10K,334,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,557,Resistors SMD 1206-1K,500,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,558,Resistors SMD 1206-1M,58,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,559,Resistors SMD 1206-3K 1%,50,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,560,Resistors SMD 1206-2.2M,10,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,561,Resistors SMD 1206-470K,10,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,562,Resistors SMD 1206-22K,10,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,563,Resistors SMD 1206-0R,57,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,564,Resistors SMD 1206-1M (1/4 w),20,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,565,Resistors SMD 1206-200 OHM,186,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,566,Resistors SMD 1206-4.7M OHM,10,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,567,Resistors SMD 1206 - 10M OHM 0.25W,10,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Resistors_1206,568,Resistors SMD 0805 - 120 OHM 125mW,10,Legacy reference / Resistors_1206 / 14,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,576,Capacitors SMD 603-1nF/50V,90,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,577,Capacitors SMD 603-22pF/50V,120,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,578,Capacitors SMD 603-100pF/50V,100,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,579,Capacitors SMD 603-2.2uF/6.3V,5,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,580,Capacitors SMD 603-10uF/50V,120,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,581,Capacitors SMD 603-10nF/50V,5,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,582,Capacitors SMD 603-100nF/0.1uF,80,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,583,Capacitors SMD 603-33pF/50V,90,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,584,Capacitors SMD 603-10pF/50V,100,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,585,Capacitors SMD 603-2.2nF/50V,108,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,586,Capacitors SMD 603-330nF/0.33uF/25V,95,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,587,Capacitors SMD 603-100nF/50V,180,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,588,Capacitors SMD 603-4.7nF/50V,200,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,589,Capacitors SMD 603-33pF,200,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,590,Capacitors SMD 603-470nF,160,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,591,Capacitors SMD 603-0.1uF / 100nF,150,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,592,Capacitors SMD 603-2.2pF,200,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,593,Capacitors SMD 603-100nF 50V (104),200,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,594,Capacitors SMD 603-100pF/100V,200,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,595,Capacitors SMD 603-1uF 50V,110,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,596,Capacitors SMD Ceramic Type-4.7uF/50V,20,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,597,Capacitors SMD Ceraminc Type- 603-10uF/25V,19,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,598,Capacitors SMD 603-100nF/50V,95,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,599,Capacitors SMD 1206 - 4700pF (or) 4.7nF / 50V,10,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,600,Capacitors SMD 1206 - 10uF/10v,10,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,601,Capacitors SMD 1206-2.2nF/50V,6,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,602,Capacitors SMD 603-10uF/10V,10,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,603,Capacitors SMD 0805 - 10pF/50V,10,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,604,Capacitors SMD Electrolyte - 330uF/35V,10,Legacy reference / Cap-TH-SMD 0603 / 15,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,607,Through Hole Capacitors-1000uF 16V,11,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,608,Through Hole Capacitors-1000uF 50V,6,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,609,Through Hole Capacitors-470uF 25V,16,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,610,Through Hole Capacitors-22uF 63V,20,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,611,Through Hole Capacitors-4.7uF 450V,3,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,612,Through Hole Capacitors-470uF 25V (Blue),2,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,613,Through Hole Capacitors-10uF 400V,5,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,614,Through Hole Capacitors-470uF 25V (Black color),13,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,615,Through Hole Capacitors-1000uF 25V,3,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,616,Through Hole Capacitors-100uF 35V(BLACK),40,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,617,Through Hole Capacitors-22uF 25V,4,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,618,Through Hole Capacitors-330uF 25V,20,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,619,Through Hole Capacitors-100uF 35V,7,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,620,Through Hole Capacitor Electrolytic 10uF 450V,5,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,621,Through Hole Capacitors-22pF 430V,15,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,622,Through Hole Capacitors-75pF 560V,20,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,623,Through Hole Capacitors-22uF 450V,5,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,624,Through Hole Capacitors-100uF 25V(BLUE),10,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,625,Through Hole Capacitors-100uF 25V(ORANGE),40,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,626,Through Hole Capacitors-100nF 50V (104),30,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,627,Through Hole Capacitors-100uF 25V(BLACK),65,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,628,Through Hole Capacitors-470uF 25V (Orange color),7,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,629,Through Hole Capacitors-10uF 63V (Orange color),23,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,630,Through Hole Capacitors-10uF/63V,100,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,631,Through Hole Capacitors-10uF/50V,10,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,634,Through Hole Capacitors-2uF box type,1,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,635,Through Hole Capacitors-1uF 400VAC (Orange color),33,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,636,Through Hole 1.5F – 5.5V – Super Capacitor,9,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,637,Through Hole Capacitors-0.1uF 310VAC 10% box type,5,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,638,Through Hole Capacitors-0.1uF/310V box type,6,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,639,Through Hole Capacitors-0.22uF 305V Box type Blue Color,3,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,640,Through Hole Capacitors-390nF 630V (Orange color),10,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,641,Through Hole Capacitors-0.01uF (10nF),15,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,642,Through Hole Capacitors-220nF 400V,3,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,643,Through Hole Capacitors-0.47uF (470nf)630V / Polyster film,9,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,644,Through Hole Capacitors-1.5uF box type,3,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,645,Through Hole Capacitors-33uF Box type Green Color,10,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,646,Through Hole Capacitors-0.047uF (47nf)100V / Polyster film,5,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,647,Through Hole Capacitors-100nF 400V,9,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,648,Through Hole Capacitors-1.5uF 500VAC MPP,18,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,651,Through Hole Ceramic Capacitors-10pF/ 50V,140,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,652,Through Hole Ceramic Capacitors-22pF/ 50V,140,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,653,Through Hole Ceramic Capacitors-22pF/ 430V,5,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,654,Through Hole Ceramic Capacitors-33pF/ 50V,100,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,655,Through Hole Ceramic Capacitors-100pF/ 50V,135,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,656,Through Hole Ceramic Capacitors-1nF/ 50V,100,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,657,Through Hole Ceramic Capacitors-0.1uF (104),80,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,658,Through Hole Ceramic Capacitors-100nF/ 50V,16,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,659,Through Hole Ceramic Capacitors-0.001uF/ 50V,100,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,Cap-TH-SMD 0603,660,Through Hole Ceramic Capacitors-0.22uF,3,Legacy reference / Cap-TH-SMD 0603 / 8,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,668,JST 2 pin Male 2.54mm pitch Connectors - Male,91,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,668,JST 2 pin Double Side Female 2.54mm pitch Connectors - single side Female,38,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,668,JST 2 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,25,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,670,JST 3 pin Male 2.54mm pitch Connectors - Male,43,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,670,JST 3 pin Double Side Female 2.54mm pitch Connectors - Female to Female,10,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,670,JST 3 pin Single Side Female 2.54mm pitch Connectors - Single Side Female,16,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,670,JST 3 pin Single Side Female (1.25mm pitch) Connectors - Single Side Female,25,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,670,JST 3 pin Single Side Female (2.54mm pitch) Connectors - Single Side Female (2510),15,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,671,JST 3 pin Single Side Female (2.54mm pitch) Connectors - Single Side Female,35,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,673,JST 4 pin Male 2.54mm pitch Connectors - Male,84,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,673,JST 4 pin Double Side Female 2.54mm pitch Connectors - Female to Female,90,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,673,JST 4 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,35,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,673,JST 4 pin Single Side Female (pitch Not defined) Connectors - Single Side Female,18,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,674,JST SH- 4pin cable 100mm,10,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,676,JST 5 pin Male 2.54mm pitch Connectors - Male,30,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,676,JST 5 pin Double Side Female 2.54mm pitch Connectors - Female to Female,10,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,676,JST 5 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,36,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,677,5pin JST male,9,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,679,6 Pin JST XH Female Connector – 2.54mm Pitch - Male,34,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,679,Female to Female (15cm),13,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,679,JST 6 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,10,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2.54mm JST connectors,680,Female to Female (25cm),8,Legacy reference / 2.54mm JST connectors / Location needs checking / 2.54mm JST connectors,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,687,JST 2 pin Male 2mm pitch Connectors - Male,59,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,687,JST 2 pin Double Side Female 2 mm pitch Connectors - Female to Female,19,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,687,JST 2 pin Single Side Female 2 mm pitch Connectors - Single side Femle,9,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,689,JST 3 pin Male 2mm pitch Connectors - Male,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,689,JST 3 pin Double Side Female 2mm pitch Connectors - Female to Female,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,689,JST 3 pin Single Side Female 2mm pitch Connectors - Single side Female,20,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,691,JST 4 pin Male 2mm pitch Connectors - Male,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,691,JST 4 pin Double Side Female 2 mm pitch Connectors - Female to Female,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,691,JST 4 pin Single Side Female 2 mm pitch Connectors - Single side Female,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,693,JST 5 pin Male 2mm pitch Connectors - Male,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,693,JST 5 pin Double Side Female 2mm pitch Connectors - Female to Female,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,693,JST 5 pin Single Side Female 2mm pitch Connectors - Single side Female,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,695,JST 6 pin Male 2mm pitch Connectors - Male,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,695,JST 6 pin Double Side Female 2mm pitch Connectors - Female to Female,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,2mm JST Connectos,695,JST 6 pin Single Side Female 2mm pitch Connectors - Single side Female,,Legacy reference / 2mm JST Connectos / Location needs checking / 2mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,702,JST 2 pin Male 1.25mm pitch Connectors - Male,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,702,JST 2 pin Double Side Female 1.25mm Pitch Connectors - Female to Female,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,702,JST 2 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,704,JST 3 pin Male 1.25mm pitch Connectors - Male,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,704,JST 3 pin Double Side Female 1.25mm pitch Connectors - Female to Female,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,704,JST 3 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,25,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,707,JST 4 pin Male 1.25mm pitch Connectors - Male,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,707,JST 4 pin Double Side Female 1.25mm pitch Connectors - Female to Female,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,707,JST 4 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,36,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,709,JST 5 pin Male 1.25mm pitch Connectors - Male,9,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,709,JST 5 pin Double Side Female 1.25mm pitch Connectors - Female to Female,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,709,JST 5 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,35,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,711,JST 6 pin Male 1.25mm pitch Connectors - Male,10,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,711,JST 6 pin Double Side Female 1.25mm pitch Connectors - Female to Female,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1.25mm JST Connectos,711,JST 6 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,,Legacy reference / 1.25mm JST Connectos / Location needs checking / 1.25mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,718,JST 2 pin Male 1.25mm pitch Connectors - Male,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,718,JST 2 pin Double Side Female 1.25mm Pitch Connectors - Female to Female,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,718,JST 2 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,25,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,720,JST 3 pin Male 1.25mm pitch Connectors - Male,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,720,JST 3 pin Double Side Female 1.25mm pitch Connectors - Female to Female,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,720,JST 3 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,722,JST 4 pin Male 1.25mm pitch Connectors - Male,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,722,JST 4 pin Double Side Female 1.25mm pitch Connectors - Female to Female,10,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,722,JST 4 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,724,JST 5 pin Male 1.25mm pitch Connectors - Male,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,724,JST 5 pin Double Side Female 1.25mm pitch Connectors - Female to Female,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,1mm JST Connectos,724,JST 5 pin Single Side Female 1.25mm pitch Connectors - Single Side Female,,Legacy reference / 1mm JST Connectos / Location needs checking / 1mm JST Connectos,Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",732,Through Hole DIODES-1N4359B,349,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",733,Through Hole DIODES-1N4001,5,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",734,Through Hole DIODES-IN4007S,47,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",735,Through Hole DIODES-1N4007,130,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",736,Through Hole DIODES-1N5352B,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",737,Through Hole DIODES-1N5347B,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",738,Through Hole DIODES-1N5350,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",739,Through Hole DIODES-6V 5W 1N5340BG,23,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",740,Through Hole ZENER DIODES-12V,15,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",741,Through Hole Diodes - IN5349B 24V 5W,310,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",742,Through Hole Diodes - P6KE100A TVS,18,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",743,Through Hole Diodes - PH4733A 5.1V 1W Zener Diode,120,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",744,Through Hole Diodes - IN5359B 24V 5W,11,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",745,Through Hole Diodes - Zener 10V 1W 2W,18,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",746,Through Hole Diodes - Zener 3.3V 1/2W,40,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",747,Through Hole Diodes - IN5341B,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",748,Through Hole Diodes - Zener 5V,12,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",749,Through Hole Diodes - Zener 6.2V IN4735,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",750,Through Hole Diodes - Zener 4.7V,5,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",751,Through Hole Diodes - Zener 3.3V,30,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",752,Through Hole Diodes - Zener 5.6V,7,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",753,Through Hole Diodes - PH4733A 24V 1W Zener Diode,31,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",754,Through Hole Diodes - IN4739A,3,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",755,Through Hole Diodes - 1N5346B 9.1V 5W Zener Diode,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",756,Through Hole Diodes - IN5819S,5,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",757,Through Hole Diodes - 1N5819 1W,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",760,SMD Diodes-M7 Diodes,103,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",761,SMD Diodes-M1F,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",762,SMD Diodes-4733A 5.1V,118,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",763,SMD Diodes-4742A,55,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",764,SMD Diodes-SMAJ 6A,4,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",765,SMD Diodes-SMAJ 5A,8,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",766,SMD Diodes-SMBJ 5A,3,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",767,SMD Diodes-SMBJ 7A,25,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",768,SMD Diodes-4.7V 200mW,100,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",769,SMD Diodes-4.7V 200mW,37,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",770,SMD Diodes-SS36F,9,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",771,SMD Diodes-1NM1Z5V1,16,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",772,SMD Diodes-TCT TVS Diode SMFO5C,7,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",773,SMD Diodes-BZV55-B4V7 4.7V 2%,9,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",774,SMD Diodes-Zener Diode 5.6 V 0.3 W,100,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",775,SMD Diodes-5.6V 5% 500mW Voltage Regulator Zener Single Diode,100,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",776,SMD Diodes-SMAJ 5V 400W ESD Supressor TVS Diodes,30,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",777,SMD Diodes-SMAJ 30V 400W ESD Supressor TVS Diode,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",778,SMD Diodes-SMCJ 12V 1500W,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",779,SMD Diodes-4.3V 500mW 2%,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",780,SMD Diodes-3.3V 500mW 2%,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",781,SMD Diodes-1N4148 100V 2A,50,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",782,SMD Diodes-1N4148,30,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",783,SMD Diodes-3.3V Zener Diode-3V3-LL34,50,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",784,SMD Diodes-4.7V 500mW,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",785,SMD Diodes-4.3V 500mW 5%,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",786,SMD Diodes-3.9V 500mW 2%,13,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",787,SMD Diodes-4.7V 500mW 2%,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",788,SMD Diodes-SMAJ 8.5V 400W ESD Supressor,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",789,SMD Diodes-70V 215mA 200mW Switching diode,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",790,"SMD Diodes-SMBJ 7.5V, 12.9V",20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",791,SMD Schottky Diode-200mA,13,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",792,SMD Schottky Diode-SS34,4,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",793,SMD Diode- SM712 TCT TVS Diode,6,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",794,SMD Diode - SMBJ12A,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",795,SMD Diode - BAT54SLT1G small signal schottky diode,30,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",796,SMD Diode - STPS2L25U Schottky diode,10,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",800,Through Hole Inductors (DIP Power)-2.2uH,5,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",801,Through Hole Inductors (DIP Power)-10uH,4,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",802,Through Hole Inductors (DIP Power)-2.2mH,5,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",803,Through Hole Inductors (DIP Power)-330uH,5,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",804,Through Hole Inductors (Common mode choke)-10mH,19,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",807,SMD Inductors-603-47nH/200mA 5%,26,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",808,SMD Inductors-603-4.7nH,100,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",809,SMD Inductors-603-150nH,100,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",810,SMD Inductors-603-4.7uH 15mA 2.1Ohm 10%,25,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",811,SMD Inductors-603-33nH,50,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",812,SMD Inductors-603-22nH 300mA,50,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",813,SMD Inductors-603-3.3nH 270mA 300mOHM,50,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",814,SMD Inductors-603-10uH,50,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",815,SMD Inductors-806-2.2uH 1.2A Inductor,25,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",816,SMD Inductors-201-1.1nH 420mA 120mOhm,50,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",817,SMD Inductors-4.7uH-4.9A,5,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",818,SMD Inductors-150uH,6,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",819,SMD Inductors-4.7uH,20,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",820,SMD Inductors-4.7nH,3,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,"TH-SMD Inductors, Diodes",821,VHF Inductors - VHF160808H22NJT,40,"Legacy reference / TH-SMD Inductors, Diodes / 8",Legacy quantity is reference only; recount before use.
+legacy,SET-1,829,Through Hole Transistors-2N3904,23,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,830,Through Hole Transistors-BC109,49,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,831,Through Hole Transistors-D882,6,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,832,Through Hole Transistors-BC547,21,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,833,Through Hole Transistors-BC5488,46,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,834,Through Hole Transistors-2N4918,6,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,835,Through Hole Transistors-EBC109 C2A,10,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,836,Through Hole Transistors-TCPL 640 PNP,8,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,837,Through Hole Transistors-BC527 PNP,4,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,838,Through Hole Transistors-2N2222,27,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,839,Through Hole Transistors-R22497,5,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,840,Through Hole Transistors-BC567,1,"Legacy reference / SET-1 / 1,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,842,SMD Transistors-MMBT3904,192,"Legacy reference / SET-1 / 1,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,843,SMD Transistors-MMBT3904 NPN 40V,104,"Legacy reference / SET-1 / 1,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,844,SMD Transistors-Digital Transistor Pre-Biased,99,"Legacy reference / SET-1 / 1,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,845,SMD Transistors-S8050 BJT NPN 25V,30,"Legacy reference / SET-1 / 1,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,846,SMD Transistors-1F NPN 25V,10,"Legacy reference / SET-1 / 1,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,847,SMD Transistors - R217493,5,"Legacy reference / SET-1 / 1,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,848,SMD Transistors - R217494,5,"Legacy reference / SET-1 / 1,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,849,SMD Transistors - 768885,5,"Legacy reference / SET-1 / 1,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,851,Through Hole Voltage Regulators-LM7805 5V,6,"Legacy reference / SET-1 / 1,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,852,Through Hole Voltage Regulators-KA7812,9,"Legacy reference / SET-1 / 1,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,853,Through Hole Voltage Regulators-KA7809,1,"Legacy reference / SET-1 / 1,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,854,Through Hole Voltage Regulators-LM1117T 3.3V,1,"Legacy reference / SET-1 / 1,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,855,Through Hole Voltage Regulators-LM317T,3,"Legacy reference / SET-1 / 1,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,856,Through Hole Voltage Regulators-L7824 CV,2,"Legacy reference / SET-1 / 1,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,857,Through Hole Voltage Regulators-L7805 CV,6,"Legacy reference / SET-1 / 1,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,859,SMD Voltage Regulators-AMS1117 3.3V IC,9,"Legacy reference / SET-1 / 1,1,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,860,SMD Voltage Regulators-AMS1117 5V IC,16,"Legacy reference / SET-1 / 1,1,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,861,SMD Voltage Regulators-LD1117AL IC,2,"Legacy reference / SET-1 / 1,1,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,863,16MHZ Crystal Oscillator - 16OSDF,29,"Legacy reference / SET-1 / 1,1,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,864,16MHZ Crystal Oscillator (Robu) - 16.000,3,"Legacy reference / SET-1 / 1,1,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,865,16MHZ Crystal Oscillator (Electronics Comp) B6-7975,9,"Legacy reference / SET-1 / 1,1,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,866,32MHZ Crystal Oscillator (Evelta),3,"Legacy reference / SET-1 / 1,1,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,867,16MHZ Crystal Oscillator - 250SX,37,"Legacy reference / SET-1 / 1,1,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,869,SMD-TRIAC OPTO-MOC3021,8,"Legacy reference / SET-1 / 1,1,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,870,SMD-TRIAC OPTO-EL817S1,18,"Legacy reference / SET-1 / 1,1,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,871,SMD-TRIAC OPTO-Photocoupler 5KV Transistor,6,"Legacy reference / SET-1 / 1,1,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,872,SMD-TRIAC OPTO-10m/Bit Logic Gate,5,"Legacy reference / SET-1 / 1,1,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,874,SMD Resettable Fuse- 805-B050TF,50,"Legacy reference / SET-1 / 1,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,875,SMD Resettable Fuse- 805-B075TF,50,"Legacy reference / SET-1 / 1,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,876,SMD Resettable Fuse- 805-B110TF,50,"Legacy reference / SET-1 / 1,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,877,SMD Resettable Fuse-1210-B020TF,50,"Legacy reference / SET-1 / 1,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,878,SMD Resettable Fuse-1812-B110TF/33,30,"Legacy reference / SET-1 / 1,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,879,SMD Resettable Fuse1206-B050TF/15,2,"Legacy reference / SET-1 / 1,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,881,Through Hole MOSFET-IRF610,11,"Legacy reference / SET-1 / 1,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,882,Through Hole MOSFET-IRF9540N,17,"Legacy reference / SET-1 / 1,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,883,Through Hole VISHAY-IRF830PBF,1,"Legacy reference / SET-1 / 1,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,884,Through Hole MOSFET-F9540N,5,"Legacy reference / SET-1 / 1,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,885,Through Hole IRFZ44N-P836D,10,"Legacy reference / SET-1 / 1,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,886,Through Hole IRFZ44N-408D,3,"Legacy reference / SET-1 / 1,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,887,Through Hole IRLZ44N,2,"Legacy reference / SET-1 / 1,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,889,SI2301 A1SHB P-channel MOSFET,5,"Legacy reference / SET-1 / 1,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,890,AO3401 30V 4A P-Channel MOSFET,5,"Legacy reference / SET-1 / 1,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,891,CA3130EZ - 15MHz BiMOS Op-amp with MOSFET I/P,4,"Legacy reference / SET-1 / 1,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,892,AO3415 20V 4A P-CHANNEL MOSFET,5,"Legacy reference / SET-1 / 1,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,896,Through Hole LDR,5,"Legacy reference / SET-1 / 1,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,897,Through Hole Potentiometer-10K,3,"Legacy reference / SET-1 / 1,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,898,Through Hole Potentiometer-10K 500MW,6,"Legacy reference / SET-1 / 1,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,899,Through Hole Variable Potentiometer-10K OHM,3,"Legacy reference / SET-1 / 1,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,900,10k ohm SMD Single Turn Potention meters,5,"Legacy reference / SET-1 / 1,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,901,Through Hole Potentiometer-20K,10,"Legacy reference / SET-1 / 1,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,903,Micro SD Card Slots,4,"Legacy reference / SET-1 / 1,2,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,904,SIM Card Slots (9 pin),15,"Legacy reference / SET-1 / 1,2,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,905,Micro SD Card Slots (6 pin),5,"Legacy reference / SET-1 / 1,2,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,907,SMD Bridge Rectifiers-MB10S,39,"Legacy reference / SET-1 / 1,2,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,908,SMD Bridge Rectifiers-DB107S,17,"Legacy reference / SET-1 / 1,2,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,910,GPS Trackers,2,"Legacy reference / SET-1 / 1,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,912,SMD IC-MAX485,4,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,913,SMD IC-Quectel EC200-UCN,1,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,914,SMD IC-MIC29302,1,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,915,SMD IC-Quectel M66,2,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,916,SMD IC-GSM/GPRS A9,3,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,917,SMD IC-DS3231 RTC,5,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,918,SMD IC-EL817C035,15,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,919,SMD IC-4056E WS20DX,7,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,920,SMD IC-EL817S1(C)(TU)-F (single channel photo transistor optocoupler),18,"Legacy reference / SET-1 / 1,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,922,ST-link V2 FOR STM8 and STM32,2,"Legacy reference / SET-1 / 1,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,923,ST-link Red,1,"Legacy reference / SET-1 / 1,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,924,ST-link Blue,1,"Legacy reference / SET-1 / 1,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,925,ST-link,1,"Legacy reference / SET-1 / 1,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,927,Through Hole IC-MAX485,3,"Legacy reference / SET-1 / 1,3,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,928,MCP602 CMOS op-amp,4,"Legacy reference / SET-1 / 1,3,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,929,Through Hole IC-LM358P,10,"Legacy reference / SET-1 / 1,3,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,930,Through Hole IC-ATMEGA328P U,6,"Legacy reference / SET-1 / 1,3,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,931,Through Hole IC-PIC16F877A,3,"Legacy reference / SET-1 / 1,3,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,932,Through Hole EEPROM IC-EEPROM 256KB 12C 8TSSOP,4,"Legacy reference / SET-1 / 1,3,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,933,BCD to Segment converter - 74LS47N,1,"Legacy reference / SET-1 / 1,3,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,935,Through Hole 10K Ohm NTC Thermistor,10,"Legacy reference / SET-1 / 1,3,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,936,Through Hole 100K Ohm NTC Thermistor,5,"Legacy reference / SET-1 / 1,3,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,938,D-Link Wi-Fi module,1,"Legacy reference / SET-1 / 1,3,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,940,GSM antenna with UFL connector,6,"Legacy reference / SET-1 / 1,4,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,942,DS3231 RTC timer,9,"Legacy reference / SET-1 / 1,4,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,944,Rubber Duck Antenna-824 – 960 MHz And 1710 – 1980 MHz 2 dBi Gain,4,"Legacy reference / SET-1 / 1,4,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,946,Hi-watt Batteries,1,"Legacy reference / SET-1 / 1,4,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,947,3.7V 2000mAH Battery 18650,1,"Legacy reference / SET-1 / 1,4,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,949,TTL TO RS485Modules,4,"Legacy reference / SET-1 / 1,4,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,951,PCB Antennas,1,"Legacy reference / SET-1 / 1,4,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,953,Current Transformer 10A PCB Mount,10,"Legacy reference / SET-1 / 1,5,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,954,Current Transformer 5A PCB Mount,5,"Legacy reference / SET-1 / 1,5,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,956,USB Type-B connectors (PCB mount),3,"Legacy reference / SET-1 / 1,5,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,957,USB Connectors,3,"Legacy reference / SET-1 / 1,5,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,958,USB to USB Isolator,2,"Legacy reference / SET-1 / 1,5,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,959,USB Micro-B type connectors,2,"Legacy reference / SET-1 / 1,5,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,961,SMD-Diode Bridge Rectifier MB10S-1000V 0.8A,11,"Legacy reference / SET-1 / 1,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,962,SMD-Ceramic Transient Voltage Supressor-402-6.8V 330pF,10,"Legacy reference / SET-1 / 1,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,963,SMD-EEPROM-16K bit 8-Pin,10,"Legacy reference / SET-1 / 1,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,964,SMD-ARM Cortex-32Bit 8KB RAM 64MHz STM32G030F6P6TR,10,"Legacy reference / SET-1 / 1,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,965,SMD-MPU6050-Triple AXIS Accelerometer Gyroscope,2,"Legacy reference / SET-1 / 1,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,967,Through Hole TRIAC -BTA26,4,"Legacy reference / SET-1 / 1,5,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,968,Through Hole TRIAC -BTA41,4,"Legacy reference / SET-1 / 1,5,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,969,Through Hole TRIAC -BT136,3,"Legacy reference / SET-1 / 1,5,4",Legacy quantity is reference only; recount before use.
+legacy,SET-1,971,MCU TTL to RS485 module 485 to serial port UART mutual level conversion hardware automatic flow control suitable Uart series,4,"Legacy reference / SET-1 / 1,5,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,972,TQFP breakout board,2,"Legacy reference / SET-1 / 1,5,5",Legacy quantity is reference only; recount before use.
+legacy,SET-1,974,TTL TO RS485Modules,7,"Legacy reference / SET-1 / 1,5,6",Legacy quantity is reference only; recount before use.
+legacy,SET-1,976,Thermal Cameras,6,"Legacy reference / SET-1 / 1,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-1,978,Relay 5V 2A,15,"Legacy reference / SET-1 / 1,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-1,981,LED Ring type,2,"Legacy reference / SET-1 / 1,6,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,982,LED Ring type (Big),2,"Legacy reference / SET-1 / 1,6,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,993,15CM SMA Female to IPEX4 Connector Cable 11mm RG0.81,7,"Legacy reference / SET-1 / 1,7,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,994,10CM SMA Female to IPEX1 Connector Cable Thread 13mm RG1.13,5,"Legacy reference / SET-1 / 1,7,3",Legacy quantity is reference only; recount before use.
+legacy,SET-1,995,15CM RP-SMA Female to IPEX4 Connector Cable 11mm RG0.81,10,"Legacy reference / SET-1 / 1,7,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1004,Through Hole-Battery Holders-COIN type,0,"Legacy reference / SET-2 / 2,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1005,CR2032 Battery button Cell holder- vertical,6,"Legacy reference / SET-2 / 2,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1006,CR2032 Battery button Cell holder - Metal,0,"Legacy reference / SET-2 / 2,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1008,OMRON LIMIT SWITCHES,9,"Legacy reference / SET-2 / 2,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1010,Through Hole Thermistor-10D9,20,"Legacy reference / SET-2 / 2,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1011,Through Hole Thermistor-20D9,18,"Legacy reference / SET-2 / 2,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1013,AHT10 Sensor Module,2,"Legacy reference / SET-2 / 2,1,4",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1015,Through Hole EEPROM-24LC256-I/P 24C256 256K,2,"Legacy reference / SET-2 / 2,1,5",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1016,SMD-PhotoCoupler-High Speed 10mBit/S,2,"Legacy reference / SET-2 / 2,1,5",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1018,Crocodile Pins,5,"Legacy reference / SET-2 / 2,1,6",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1020,CR2477N Batteries,3,"Legacy reference / SET-2 / 2,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1022,Lithium Battery Charger Module (3.6V-4.2V 1A),1,"Legacy reference / SET-2 / 2,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1024,SMD-IC-ESP WROOM 32-D,5,"Legacy reference / SET-2 / 2,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1025,SMD-IC-ESP WROOM 32-E,7,"Legacy reference / SET-2 / 2,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1027,Gyroscope -MPU6050,5,"Legacy reference / SET-2 / 2,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1028,Microwave Radar Sensor module,2,"Legacy reference / SET-2 / 2,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1029,Level Controller,1,"Legacy reference / SET-2 / 2,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1030,TP4056,2,"Legacy reference / SET-2 / 2,2,4",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1032,Accelerometer Sensor,3,"Legacy reference / SET-2 / 2,2,5",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1034,AT Tiny Modules,3,"Legacy reference / SET-2 / 2,2,6",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1036,AMS1117-5V Voltage Regulators,6,"Legacy reference / SET-2 / 2,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1037,AMS1117-3.3V Voltage Regulators,1,"Legacy reference / SET-2 / 2,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1039,Buzzer,4,"Legacy reference / SET-2 / 2,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1040,Active High Buzzer,3,"Legacy reference / SET-2 / 2,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1041,Buzzer Module Low Level Triggering,5,"Legacy reference / SET-2 / 2,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1043,LAN Ethernet interface Connector Module,1,"Legacy reference / SET-2 / 2,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1045,6.4V 18650 Lithium Iron Battery Protection Board,3,"Legacy reference / SET-2 / 2,3,4",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1047,Lithium Battery Protection plate 6MOS,5,"Legacy reference / SET-2 / 2,3,5",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1048,Li-ion Battery BMS Charger Protection Board for 3.7V Battery.,2,"Legacy reference / SET-2 / 2,3,5",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1050,TPS100 4.2V & 8.4V,4,"Legacy reference / SET-2 / 2,3,6",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1052,ADS1115 16-bit 4 Channel,4,"Legacy reference / SET-2 / 2,4,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1054,I2C ADS1115 Modules,3,"Legacy reference / SET-2 / 2,4,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1056,3.7V to 9V 2A Lithium Battery Charge module,2,"Legacy reference / SET-2 / 2,4,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1058,Step down power supply modules,3,"Legacy reference / SET-2 / 2,4,4",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1060,TL431A1ZT Linear voltage regulator IC,5,"Legacy reference / SET-2 / 2,4,5",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1061,L7805ABD2T Linear voltage regulator IC,7,"Legacy reference / SET-2 / 2,4,5",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1063,INA3221 Current Power Monitoring,2,"Legacy reference / SET-2 / 2,4,6",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1065,Speaker Modules,4,"Legacy reference / SET-2 / 2,5,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1067,64 pin Breakout Boards,2,"Legacy reference / SET-2 / 2,5,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1069,Camera Modules Rapsberry pi 4 Cables (1Mtr),4,"Legacy reference / SET-2 / 2,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1071,10Kgs Load Cell (robu),2,"Legacy reference / SET-2 / 2,5,4",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1073,Infrared thermometer sensor,1,"Legacy reference / SET-2 / 2,5,5",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1075,Smart IR Distance Sensor,2,"Legacy reference / SET-2 / 2,5,6",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1077,BLE Antenna,2,"Legacy reference / SET-2 / 2,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1078,LoRa Antenna,2,"Legacy reference / SET-2 / 2,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1079,RAK11720 Module with antenna,2,"Legacy reference / SET-2 / 2,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1080,RAK4630 Module with antenna,,"Legacy reference / SET-2 / 2,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1081,Screws set,2,"Legacy reference / SET-2 / 2,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1083,PCF8523 Real Time Clock Assembled Breakout Board (Coin Battery),2,"Legacy reference / SET-2 / 2,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1084,ADS1115 16-Bit ADC- 4 Channel with Programmable Gain Amplifier,1,"Legacy reference / SET-2 / 2,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1085,MCP2515_CAN Module,2,"Legacy reference / SET-2 / 2,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1086,AVR Programmer,1,"Legacy reference / SET-2 / 2,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1087,DA5-PS0005 Module,1,"Legacy reference / SET-2 / 2,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1088,M66 Modules,2,"Legacy reference / SET-2 / 2,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1090,M66 Module Quectel,1,"Legacy reference / SET-2 / 2,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1091,ADUM 3160 USB Isolator module,1,"Legacy reference / SET-2 / 2,6,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1093,CP2102USB to TTL UART Serial Converter,22,"Legacy reference / SET-2 / 2,6,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1094,CH340G USB to TTL Serial Converter,5,"Legacy reference / SET-2 / 2,6,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1095,ST- Link,3,"Legacy reference / SET-2 / 2,6,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1098,Male to Female Connectors,,"Legacy reference / SET-2 / 2,7,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1100,Male to Male connectors,,"Legacy reference / SET-2 / 2,7,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1102,Female to Female Connectors,,"Legacy reference / SET-2 / 2,7,3",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1104,Panel mount USB Connectors,3,"Legacy reference / SET-2 / 2,8,1",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1106,RS232 to TTL Connectos,7,"Legacy reference / SET-2 / 2,8,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1107,RS232 Wave share Module,5,"Legacy reference / SET-2 / 2,8,2",Legacy quantity is reference only; recount before use.
+legacy,SET-2,1109,Clicker Transmitter Board Enclosures,2,"Legacy reference / SET-2 / 2,8,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1117,Resistors SMD-402-56k,13,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1118,Resistors SMD-402-1k,31,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1120,Resistors SMD-805-5K,88,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1121,Resistors SMD-805-10K,62,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1122,Resistors SMD-805-12K,177,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1123,Resistors SMD-805-15K,37,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1124,Resistors SMD-805-150R,85,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1125,Resistors SMD-805-24K,69,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1126,Resistors SMD-805-24K,204,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1127,Resistors SMD-805-27K,204,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1128,Resistors SMD-805-470R,138,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1129,Resistors SMD-805-300R,115,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1130,Resistors SMD-805-100R,53,"Legacy reference / SET-3 / 3,1,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1132,DC -DC Converter 5V (SMD),5,"Legacy reference / SET-3 / 3,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1133,DC -DC Converter 5V 5W,4,"Legacy reference / SET-3 / 3,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1134,DC -DC Converter 5V 10W,1,"Legacy reference / SET-3 / 3,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1135,DC -DC Converter 3.3V 6.6W,1,"Legacy reference / SET-3 / 3,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1136,DC -DC Converter 3.3V 3.3W,5,"Legacy reference / SET-3 / 3,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1137,DC -DC Converter 3.3V 2W,10,"Legacy reference / SET-3 / 3,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1139,ESP 32 - S2,2,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1140,ESP 8266MOD,1,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1141,ESP - 12F,1,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1142,ESP 32- WROOM-32D,1,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1143,ESP 32CAM - Driver,1,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1144,ESP32-Wrover-DEV(With CAM),1,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1145,ESP32 S2 DEvKitC-1,1,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1146,ESP32 Raspberry Zero W,1,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1147,RaspBerry Pi Pico W,1,"Legacy reference / SET-3 / 3,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1149,Through Hole OptoTRIAC-MOC3083 (ROBU),3,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1150,Through Hole OptoTRIAC-MOC3043,15,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1151,Through Hole OptoTRIAC-MOC3083M,8,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1152,Through Hole OptoTRIAC-MOC3043 723Q,4,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1153,Through Hole OptoTRIAC-MOC3063 With Zero Cross,12,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1154,Through Hole OptoTRIAC-MOC3083 800V,6,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1155,Through Hole OptoTRIAC-MOC3021 L1718,10,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1156,Through Hole OptoTRIAC-T EL3021,5,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1157,Through Hole OptoTRIAC-EL817 B910,16,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1158,Through Hole OptoTRIAC-4N35,6,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1159,Through Hole OptoCouplers-H11L1,5,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1160,Through Hole OptoTRIAC-MOC3021 213Q,6,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1161,Through Hole OptoCouplers-PC817 DIP-4,5,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1162,Optocoupler Phototraic Driver IC - MOC3023,4,"Legacy reference / SET-3 / 3,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1164,SMD Capacitors-100uF-1206,180,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1165,SMD Capacitors-0.1uF-1206,44,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1166,SMD Capacitors-100nF-1206,100,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1167,SMD Capacitors-33pF-1206,21,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1169,Capacitors SMD-805-22pF/50V,6,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1170,Capacitors SMD-805-10uF/25V,12,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1171,Capacitors SMD-805-1uF/50V,22,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1172,Capacitors SMD-805-10nF/50V,310,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1173,Capacitors SMD-805-10uF/25V,50,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1174,Capacitors SMD-805-22pF/50V,57,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1175,Capacitors SMD-805-0.1nF/100pF,200,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1176,Capacitors SMD-805-10pF/50V,5,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1177,Capacitors SMD--10uF/16V Tantalum capacitor,25,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1178,Capacitors SMD-805-1nF/50V,5,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1180,Capacitors SMD-402-12pF/50V,6,"Legacy reference / SET-3 / 3,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1182,Through Hole Switches-6X6X6 4 pin Square,30,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1183,Through Hole Switches-6X6X8 4 pin Square,28,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1184,Through Hole Switches-2 Pin round,5,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1185,Through hole Slide Switches,9,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1186,Through Hole Switches-2 Pin Square,30,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1187,Through Hole Switches-12mm 4 pin Square,15,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1188,Through Hole Switches-6X6X17 4 pin Square,15,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1189,Through Hole Switches-6X6X21 4 pin Square,9,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1190,Through Hole Switches-6X6X8 4 pin Square (KTRON),20,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1191,Blue Cap 6X6mm,10,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1192,Gray Cap 6X6mm,20,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1193,Black Cap 6X6mm,10,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1194,IR,10,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1195,White Cap 6X6mm,10,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1196,Red Cap 6X6X7.3mm,10,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1197,Blue Cap 6X6X7.3mm,10,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1198,On/Off Switches Red SPST,3,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1199,On or Off Red Switches,3,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1200,Switch Red,1,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1201,Thtough Hole Switches-6x6x5 2 pin Square,15,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1203,SMD Switches-Tactile switches,27,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1204,SMD Switches-4 Pin tactile switches,4,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1205,SMD Switches-Tactile switches 3X4X2mm,35,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1206,SMD Switches-Tactile switches - TS3643TP,20,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1207,SMD Switches-Tactile switches - 1180A 4 pin 3x4x2.5,50,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1208,SMD Slide Switches - 7 pin,10,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1209,SMD Switches-Tactile switches - 083 3x4x2mm 2pin,5,"Legacy reference / SET-3 / 3,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1211,Fuses-200mA 250V,11,"Legacy reference / SET-3 / 3,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1212,Fuses-1A 250V,11,"Legacy reference / SET-3 / 3,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1213,Fuses-6.3A 250V,29,"Legacy reference / SET-3 / 3,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1214,Fuses-250mA 250V,10,"Legacy reference / SET-3 / 3,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1215,Fuses-500mA 250V,49,"Legacy reference / SET-3 / 3,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1216,Fuses-0.5A 250V,34,"Legacy reference / SET-3 / 3,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1217,Fuse Holder,2,"Legacy reference / SET-3 / 3,3,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1219,Through Hole LED-GREEN 3mm,25,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1220,Through Hole LED-RED 3mm,59,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1221,Through Hole LED-Bi-Color 3mm,96,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1222,Through Hole LED-YELLOW 3mm,12,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1223,Through Hole LED-BLUE 3mm,11,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1224,Through Hole LED-YELLOW 5mm,27,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1225,Through Hole LED-GREEN 5mm,11,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1227,SMD LED's 1608-Red,24,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1228,SMD LED's 1608-Green,20,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1229,SMD LED's 805-Red,68,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1230,SMD LED's 805-Green,30,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1231,SMD LED's 0603-Red,94,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1232,SMD LED's 0603-Green,95,"Legacy reference / SET-3 / 3,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1234,Male to Male Connectors 2.54mm 20x2,2,"Legacy reference / SET-3 / 3,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1235,Male to Male Connectors 1.25mm 40x1,6,"Legacy reference / SET-3 / 3,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1236,Right Angle Male Headers 40x1,2,"Legacy reference / SET-3 / 3,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1237,Right Angle Female H2eaders,4,"Legacy reference / SET-3 / 3,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1239,L89 GNSS,2,"Legacy reference / SET-3 / 3,4,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1240,INA219A Current Sensor,2,"Legacy reference / SET-3 / 3,4,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1242,Solar Charger-V1.0 Module,4,"Legacy reference / SET-3 / 3,4,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1243,Battery Charging/ Discharge Module,2,"Legacy reference / SET-3 / 3,4,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1244,Solar Power Manager-(5V) V1.1,2,"Legacy reference / SET-3 / 3,4,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1245,Battery Charging Module,4,"Legacy reference / SET-3 / 3,4,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1246,TP4056 Battery Charging Module,1,"Legacy reference / SET-3 / 3,4,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1247,TP5100 charging management power supply module board-4.2V 8.4V,1,"Legacy reference / SET-3 / 3,4,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1249,Mini Micro SD Card Reader Module (KOTI),3,"Legacy reference / SET-3 / 3,4,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1250,Mini Micro SD Card Reader Module (ROBU),2,"Legacy reference / SET-3 / 3,4,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1251,Micro SD Card Adapter,9,"Legacy reference / SET-3 / 3,4,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1252,Breakout Board Micro SD Card,0,"Legacy reference / SET-3 / 3,4,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1254,MPLAB PIC KIT 4 Debugger,1,"Legacy reference / SET-3 / 3,5,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1255,Logic Analyzer 24MHZ,1,"Legacy reference / SET-3 / 3,5,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1256,J-Tag Debugger,1,"Legacy reference / SET-3 / 3,5,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1258,GX-12 Connectors,8,"Legacy reference / SET-3 / 3,5,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1259,GX-16 Connectors,11,"Legacy reference / SET-3 / 3,5,2",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1261,USB Amazon Donlge,1,"Legacy reference / SET-3 / 3,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1262,STM32G0 Series IC Digikey,2,"Legacy reference / SET-3 / 3,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1263,2 Channel digital isolator Digikey,8,"Legacy reference / SET-3 / 3,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1264,General purpose Dua channel-1 IC Digikey,5,"Legacy reference / SET-3 / 3,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1265,64 LQFP IC MCU - STM32G070RBTL Digikey,5,"Legacy reference / SET-3 / 3,5,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1267,LM25965 Buck Module,3,"Legacy reference / SET-3 / 3,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1268,Hw-432 Xl6009 Boost Voltage Stabilizing Dc-dc Adjustable Module Power Module,2,"Legacy reference / SET-3 / 3,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1269,MT3608 Boost Module,1,"Legacy reference / SET-3 / 3,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1270,HW-183 Boost Module,1,"Legacy reference / SET-3 / 3,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1271,3.7V to 12V Mini DC-DC Boost Step Up Converter Board Module 5V/ 8V/ 9V 12V Output,4,"Legacy reference / SET-3 / 3,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1272,Mini MP1584 DC-DC 3A Adjustable Buck Module (HW-133A),2,"Legacy reference / SET-3 / 3,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1273,3.3V 2A Mini Buck Converter Breakout - AP61201,4,"Legacy reference / SET-3 / 3,6,1",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1278,CR2032 Batteries,10,"Legacy reference / SET-3 / 3,6,3",Legacy quantity is reference only; recount before use.
+legacy,SET-3,1279,CR2477N Batteries,5,"Legacy reference / SET-3 / 3,6,3",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1286,CD4017BE-Texas Instruments Counter,5,"Legacy reference / SET-4 / 4,1,2",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1288,TLC555IP-Texas Instruments Timer,5,"Legacy reference / SET-4 / 4,1,3",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1290,Arduino UNO,2,"Legacy reference / SET-4 / 4,2,1",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1292,"2500mAh, 11.1V",3,"Legacy reference / SET-4 / 4,2,2",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1294,LDR sensor,2,"Legacy reference / SET-4 / 4,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1295,Touch sensor,1,"Legacy reference / SET-4 / 4,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1297,LDR sensor,2,"Legacy reference / SET-4 / 4,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1298,Touch sensor,0,"Legacy reference / SET-4 / 4,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1299,Temperature Sensor (FLUKE),0,"Legacy reference / SET-4 / 4,2,3",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1301,RAK3172 IC,14,"Legacy reference / SET-4 / 4,3,2",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1303,TPS2113A Power Multiplier Carrier with USB Micro-B Connector,2,"Legacy reference / SET-4 / 4,3,3",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1305,PICKit 3,1,"Legacy reference / SET-4 / 4,4,1",Legacy quantity is reference only; recount before use.
+legacy,SET-4,1306,Incremental Rotatory Encoder Module,2,"Legacy reference / SET-4 / 4,4,1",Legacy quantity is reference only; recount before use.
