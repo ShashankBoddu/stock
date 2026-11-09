@@ -44,7 +44,7 @@ if errorlevel 1 (
 )
 
 echo [4/4] Resetting local repository to origin/main...
-git checkout -B main origin/main
+git checkout -f -B main origin/main
 git reset --hard origin/main
 git clean -fd -e reset_to_remote.bat
 
