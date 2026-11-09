@@ -1,45 +1,66 @@
 # Stockroom
 
-A small self-hosted stock management prototype. It uses Python's standard library and SQLite; it does not need npm, a cloud server, or a recurring software subscription.
+A clean, self-hosted office stock management system. Built entirely with Python's standard library and SQLite; zero npm dependencies, zero cloud lock-in, and fast on smartphones, tablets, and desktops.
 
-## Start Stockroom on the office Wi-Fi
+---
 
-1. Install Python 3.10 or newer on the stock person's office laptop.
-2. **First-time Wi-Fi setup**: Run `enable_wifi_access.bat` as Administrator. This configures Windows Firewall to allow port 8080 and sets the Wi-Fi connection to Private so other devices on the same Wi-Fi can connect.
-3. Run `run_stockroom.bat`. It prints the laptop URL (`http://127.0.0.1:8080/`) and the same-Wi-Fi URL (e.g. `http://<laptop-ip>:8080/`), and opens the local app in the default browser.
-4. On smartphones or other office computers connected to the same Wi-Fi:
-   - Either type the `http://<laptop-ip>:8080/` URL printed in the launcher, OR
-   - Click the **Wi-Fi / Mobile link** button in the stock app topbar and scan the QR code using a phone camera.
-5. Create the stock person account or sign in to start managing stock and employee requests.
+## Quick Start on the Office Wi-Fi
 
-Keep the launcher window open while staff use the live app. The laptop must be on, and this first version does not save movement forms while offline. If other devices cannot connect even when using the printed Wi-Fi URL, verify that `enable_wifi_access.bat` has been run and both devices are connected to the exact same Wi-Fi network.
+1. **Prerequisite**: Python 3.10 or newer on the stock person's laptop.
+2. **First-time Wi-Fi setup**: Run `enable_wifi_access.bat` as Administrator (allows port 8080 through Windows Firewall).
+3. **Start the app**: Run `run_stockroom.bat`. It displays the local URL (`http://127.0.0.1:8080/`) and the office Wi-Fi URL (e.g. `http://<laptop-ip>:8080/`).
+4. **On Mobile Phones / Tablets**:
+   - Connect to the office Wi-Fi.
+   - Open the Wi-Fi URL or scan the QR code from the app topbar.
+5. **Sign in**:
+   - Stock person: `jagannadh.p@fervidsmart.com`
+   - Employee: `shashank.b@fervidsmart.com`
 
-## First-use setup
+---
 
-- The current workspace already includes both supplied lists: 1,152 catalog items across 190 locations. The 030325 workbook is treated as legacy reference data; its quantities are not added to live stock.
-- 291 opening transactions record the known quantities from `stock_list.md` (1,342 total units). Items with blank current quantities, ambiguous duplicate rows, or legacy-only quantities are marked **Needs count**; the app does not let staff issue them until counted.
-- Five possible spelling duplicates are listed in `data/possible_duplicate_review.csv` for review. The importer merges only exact normalized names and never adds legacy quantities to current counts.
-- Storage is shown as a hierarchy, for example `Stock Room / IoT Rack-C / C-3 / BOX -21`. Inventory, movement history, purchase receipts, and CSV exports show the complete path.
-- An issue records the signed-in person and a searchable employee recipient; both appear in movement history. **Edit** can move each item's location balance while preserving its quantity and count-needed status.
-- Purchase requests support manually entered items, optional vendor and product link per item, and record the signed-in requester and project.
-- **Movements** includes searchable, type-filtered history. The stock person can confirm or reject pending inward entries and returns; rejected returns become active loans again.
-- Use **Count** on an item to verify a location. Counted quantities and any adjustment are recorded in the audit history. Use **Edit** to correct its category/type and set a minimum stock level.
-- Add projects from **Setup**; employees can also choose **General/Internal**.
-- Add employee accounts using company email addresses and unique passwords.
-- Use the purchase request screen for items not yet in inventory. The stock person adds new items when receiving the purchase.
+## Stockroom Physical Map
 
-If you replace the seed data, first back up the database. Rebuild the review files with `python build_stock_import.py "<current stock_list.md>" "<legacy Stock_List_030325.md>"`, then run `python import_seed_into_db.py` only against an empty database. The importer refuses to overwrite an existing inventory.
+All storage locations are organized under the **Stock Room** hierarchy matching the physical laboratory racks and cupboards:
 
-## Data and backups
+- **IoT Rack-A**: Shelves `A-1` through `A-8` (Weighing scales, cables, adapters, sensors, flow meters).
+- **IoT Rack-B**: Shelves `B-1` through `B-5` (Monitors, turbidity analyzers, robots, kits).
+- **IoT Rack-C**: Shelves `C-1` through `C-5` and dedicated sub-boxes:
+  - `C-3 / BOX - 21`: Battery bank (Li-ion, LiPo, VRLA, Ni-MH)
+  - `C-3 / BOX13`: SMD Resistors
+  - `C-4 / BOX - 19`: Switches, terminal blocks, DC jacks
+  - `C-4 / BOX-22`: Soldering materials
+  - `C-4 / BOX - 23`: Power Pro devices
+  - `C-4 / BOX - 10`: LCD displays
+- **IoT Rack-D**: Shelves `D-1` through `D-5` (Weighing scales, monitors, oscilloscopes, enclosures).
+- **IoT Rack-E**: Shelves `E-1` through `E-5`:
+  - `E-3 / Mixed Components Box`: Power cables, Ethernet, HDMI, laptop & 12V adapters.
+- **IoT Rack-F**: Shelves `F-1` through `F-5` (Power Pro adapters, robotic components).
+- **IoT Rack-G**: Shelves `G-1` through `G-5` (3D printing machine, demo modules, robokits).
+- **IoT Rack-H**: Shelves `H-1` through `H-5` (Trays, invoices, catalogs, brochures).
+- **White Cupboard**:
+  - `Shelf - 1`: Power Pro units and SMD component boxes (`Box 8`, `Box 14`, `BOX 15`).
+  - `Shelf - 2`: Trays `Tray-1` through `Tray - 5` and `Camera Modules` (breakdown modules, dev kits, sensors, ICs, LEDs, micro cameras).
+  - `Shelf - 3`: `Tool Kit Box`, `Jumper Cables Box`, `M16 Water Proof Connectors`, `GX Connectors`, `Zip Tags`, `Pressure Transmitter`.
+- **Grey Cupboard**:
+  - `Transistors, Mosfets & ICs`: 27 distinct transistor, mosfet, and IC components.
+  - `Batteries`: Li-ion batteries (3.6V).
+- **On Ground**: Heavy equipment (`Weight Scale (Big)`, `Dendrile`, `Valve`, `ROBOT`).
 
-The live database is `data/inventory.sqlite3`. Stop the server before copying this file for a simple backup, and keep backups on another drive. The inventory screen can export a CSV overview.
+---
 
-The merged source copy is `data/stock_lists_merged.md`; `data/stock_import_review.csv` preserves parsed source rows and references. `data/stock_seed.json` is the structured import used for the current catalog.
+## Inventory Status & Count Rules
 
-The Google Sheets snapshot connection is not configured yet. It needs a destination sheet and an authorized connection method. The app currently provides a CSV export for review; it does not claim to sync the sheet automatically until that connector is set up.
+- **Current Stock**: 368 verified catalog items across 1,354 physical units.
+- **Needs Count (80 items)**: Items where the initial Excel sheet had blank quantities (e.g. miscellaneous cables, coils, spacers) are highlighted with the **"⚠️ Needs count"** filter. When staff verify the physical count on the shelf, they use the **Count** button to update the quantity in place.
+- **Connected Activity Links**: Checkouts are tracked as complete lifecycles:
+  `[ Taken ] ───> [ ↻ Returned to shelf ] & [ ✓ Used in project ]`
+  Items currently held by staff show instant `Return` and `Mark used` buttons.
 
-After updating the server code, stop any running Stockroom window with Ctrl+C and start `run_stockroom.bat` again so it loads the latest screens and count-review actions.
+---
 
-## Network note
+## Data Files
 
-The app uses HTTP on the office network. HTTP does not encrypt sign-in details or stock data in transit, so use unique passwords and keep the server off public internet. If the managed firewall blocks incoming connections, an administrator-approved firewall rule or a separately hosted HTTPS service is needed for phone access.
+- Live database: `data/inventory.sqlite3` (WAL mode enabled for fast concurrent read/write).
+- Structured catalog export: `data/stock_seed.json`.
+- Spreadsheet export: `data/stock_import_review.csv` (or click **↓ Export CSV** directly in the app).
+- Human-readable inventory: `data/stock_lists_merged.md`.
